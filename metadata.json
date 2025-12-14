@@ -1,0 +1,5 @@
+{
+  "name": "VozGenius AI",
+  "description": "Aplicación avanzada de texto a voz con múltiples voces, acentos y estilos emocionales utilizando Gemini AI.",
+  "requestFramePermissions": []
+}
